@@ -80,3 +80,5 @@ $("#forgotpasswordform").submit(function(event){
     });
 
 });
+
+const variable=1
